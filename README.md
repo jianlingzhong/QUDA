@@ -1,4 +1,4 @@
 # QUDA
-## core C++ code
-## R package code
-## Python package code?
+ * core C++ code
+ * R package code
+ * Python package code?
